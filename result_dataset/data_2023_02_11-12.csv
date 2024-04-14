@@ -1,0 +1,6 @@
+metric_id,metric_desc,metric_value,metric_date,file_generation_date
+1,active contracts,22000,2023-02-11 and 2023-02-12,2024-04-14 19:14:14
+2,active customers,100500,2023-02-11 and 2023-02-12,2024-04-14 19:14:14
+3,employees count,201,2023-02-11 and 2023-02-12,2024-04-14 19:14:14
+4,active partners,2005,2023-02-11 and 2023-02-12,2024-04-14 19:14:14
+5,unique products,10,2023-02-11 and 2023-02-12,2024-04-14 19:14:14
